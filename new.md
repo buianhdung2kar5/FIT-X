@@ -1,1 +1,1 @@
-kakakakakakakaka
+kakakakakakakakaprint("Program started")
