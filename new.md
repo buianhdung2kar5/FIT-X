@@ -1,1 +1,1 @@
-kakakakakakakakaprint("Program started")
+Moi
